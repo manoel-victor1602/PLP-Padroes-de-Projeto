@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Capitulo_7_Facade\Capitulo_7_Facade\bin\Debug\Capitulo_7_Facade.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Capitulo_7_Facade\Capitulo_7_Facade\bin\Debug\Capitulo_7_Facade.exe
+c:\users\user\documents\visual studio 2015\Projects\Capitulo_7_Facade\Capitulo_7_Facade\bin\Debug\Capitulo_7_Facade.pdb
+c:\users\user\documents\visual studio 2015\Projects\Capitulo_7_Facade\Capitulo_7_Facade\obj\Debug\Capitulo_7_Facade.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Capitulo_7_Facade\Capitulo_7_Facade\obj\Debug\Capitulo_7_Facade.exe
+c:\users\user\documents\visual studio 2015\Projects\Capitulo_7_Facade\Capitulo_7_Facade\obj\Debug\Capitulo_7_Facade.pdb
